@@ -1,6 +1,6 @@
-Singly linked lists
+Singly linked list
 
- Tests: This Directory is for tests purposes.
+README.md
 
  lists.h: Header file containing definitions and prototypes for all types and functions written for the project.
 Type/File	Definition/Prototype
